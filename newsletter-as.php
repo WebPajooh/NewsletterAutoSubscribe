@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Newsletter-AutoSubscribe
+Plugin Name: NewsletterAutoSubscribe
 Description: It adds new registered users to the subscribers list.
 Author: WebPajooh
 Version: 1.0.1
